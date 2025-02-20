@@ -8,15 +8,12 @@ export interface Portfolio {
 }
 
 export const portfolioData: Portfolio[] = [
-  // Example entry
   {
-    title: "Causal Discovery Framework",
-    description:
-      "A framework for discovering causal relationships in high-dimensional time series data using state-of-the-art machine learning techniques.",
-    technologies: ["Python", "PyTorch", "React"],
-    projectUrl: "https://project-demo.com",
-    imageUrl:
-      "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    codeUrl: "https://github.com/username/project",
-  },
+    title: "GPT4ALL",
+    description: "An open-source ecosystem of compressed language models trained on diverse data including code, narratives, and dialogues. The project focuses on making LLMs accessible and CPU-friendly, garnering over 60K GitHub stars and significant academic recognition with 100+ citations in its opening year.",
+    technologies: ["Python", "TypeScript", "Next.js", "Machine Learning", "PyTorch"],
+    projectUrl: "https://gpt4all.io",
+    codeUrl: "https://github.com/nomic-ai/gpt4all",
+    // imageUrl: "https://raw.githubusercontent.com/nomic-ai/gpt4all/main/gpt4all-banner.png",
+  }
 ];

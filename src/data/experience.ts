@@ -13,7 +13,7 @@ export const experienceData: Experience[] = [
     date: "Jun 2022 - Aug 2023",
     title: "Software Engineer",
     company: "Nomic",
-    description: "Led development of Atlas Platform for data visualization, constructed GPT4ALL data pipeline, and steered the open-source project to 60K+ GitHub stars. Worked on migrating enterprise web apps to Next.js",
+    description: "Worked on evelopment of Atlas Platform for data visualization, constructed GPT4ALL data pipeline, and steered the open-source project to 60K+ GitHub stars. Worked on migrating enterprise web apps to Next.js",
     companyUrl: "https://nomic.ai",
   },
   {
